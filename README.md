@@ -58,10 +58,27 @@ No momento tenho focado meus estudos para área de teste de softwarer, já tendo
   style="padding-right: 10px;"
   src="https://devicon-website.vercel.app/api/jira/original.svg" />
 
-  
+   <img 
+  align="left"
+  alt="JIRA"
+  title="JIRA"
+  width="30px"
+  style="padding-right: 10px;"    
+    src="https://private-user-images.githubusercontent.com/120729175/422515199-1c453a39-03bd-421d-9d8b-a1a97ab29e59.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4OTU3NzAsIm5iZiI6MTc0MTg5NTQ3MCwicGF0aCI6Ii8xMjA3MjkxNzUvNDIyNTE1MTk5LTFjNDUzYTM5LTAzYmQtNDIxZC05ZDhiLWExYTk3YWIyOWU1OS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxM1QxOTUxMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzQ2MTRiZGZmNmVjNTRhYjE4ZTI1MDY2MmZmM2QxN2ZkMTgxNzg3NTkwZTRkNWM2Y2U1ZGMzMDkyOGNlZWQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8Xhi7RwMbiYyDNDJLz2OhRqq7iknSZHbITQXh7IGTLE" />
+
+  <img
+  align="left"
+  alt="JIRA"
+  title="JIRA"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://private-user-images.githubusercontent.com/120729175/422516262-c27ea358-e351-48ff-ae0f-aa041bfa8d33.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4OTU5NjYsIm5iZiI6MTc0MTg5NTY2NiwicGF0aCI6Ii8xMjA3MjkxNzUvNDIyNTE2MjYyLWMyN2VhMzU4LWUzNTEtNDhmZi1hZTBmLWFhMDQxYmZhOGQzMy5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxM1QxOTU0MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNGE5NjNiYjQwOTRkMTgwZjY1YTQwZDU3NDJjMDY3MzRkMTQ0NzAzMTdjZGVkMDcyNThmYWZmZGVjMDg5ODQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bZJhe0R6Awr1q6A5osN8JBQLob1y3NmlMZ4xsXmP1Vc" />
 
   
 
+  
+
+ 
 
 
   
@@ -70,6 +87,7 @@ No momento tenho focado meus estudos para área de teste de softwarer, já tendo
 
 
   
+
 
 
   
